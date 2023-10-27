@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "912743318992",
+    "firebase_url": "https://ghost-vpn-32d70.firebaseio.com",
+    "project_id": "ghost-vpn-32d70",
+    "storage_bucket": "ghost-vpn-32d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912743318992:android:f4f546081b766664f1e5d5",
+        "android_client_info": {
+          "package_name": "com.example.test_app_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912743318992-s9l0591o7fdq7gjhlfcqa13iebgpab2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHoBe8s9OvELpiHaoEwS5S00rkzVS2Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912743318992-s9l0591o7fdq7gjhlfcqa13iebgpab2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912743318992:android:51e146fa7b20cbc6f1e5d5",
+        "android_client_info": {
+          "package_name": "com.ghost_vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912743318992-s9l0591o7fdq7gjhlfcqa13iebgpab2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHoBe8s9OvELpiHaoEwS5S00rkzVS2Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912743318992-s9l0591o7fdq7gjhlfcqa13iebgpab2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

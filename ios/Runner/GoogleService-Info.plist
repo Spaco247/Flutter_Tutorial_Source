@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC51W-uR3B39lBmLYvLM41KQHBxKH6CveI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>912743318992</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testApp2</string>
+	<key>PROJECT_ID</key>
+	<string>ghost-vpn-32d70</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ghost-vpn-32d70.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:912743318992:ios:d79bdf53ca13d41cf1e5d5</string>
+	<key>DATABASE_URL</key>
+	<string>https://ghost-vpn-32d70.firebaseio.com</string>
+</dict>
+</plist>
